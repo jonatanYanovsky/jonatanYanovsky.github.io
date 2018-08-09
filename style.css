@@ -1,0 +1,18 @@
+h1 {
+	margin-left: 50px;
+}
+	
+div span {
+	margin-left: 10px;
+}	
+h2 div {
+	margin-left: 50px;
+}
+	
+.crossOut {
+	text-decoration: line-through;
+}
+
+.input1 {
+	display: none;
+}
